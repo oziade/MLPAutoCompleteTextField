@@ -48,6 +48,7 @@
 
 
 @property (assign) BOOL autoCompleteTableViewHidden;
+@property (assign) BOOL isDisplayed;
 
 @property (assign) CGFloat autoCompleteFontSize;
 @property (strong) NSString *autoCompleteBoldFontName;
